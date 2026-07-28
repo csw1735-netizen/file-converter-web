@@ -2,6 +2,8 @@
 
 Excel, CSV, TXT 파일을 브라우저에 드래그해 표준 CSV로 변환하는 로컬 웹앱입니다.
 
+웹에서 바로 사용: [file-converter-web.streamlit.app](https://file-converter-web.streamlit.app/)
+
 ## 지원 기능
 
 - Excel (`.xlsx`, `.xlsm`, `.xls`) → CSV
